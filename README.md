@@ -37,8 +37,5 @@ This project analyzes bank loan data to evaluate loan performance, identify risk
 - Highlighted regional loan distribution
 - Analyzed customer financial behavior
 
-## Dashboard Preview
-(Add screenshots here)
-
 ## Project Outcome
 Developed an interactive financial dashboard to monitor loan performance and support risk analysis.
