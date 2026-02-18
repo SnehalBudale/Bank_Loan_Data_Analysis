@@ -1,4 +1,4 @@
---1. Total count of apllications
+--1. Total count of applications
 SELECT COUNT(id) AS Total_Loan_Applications FROM Bank_Loan_Data
 
 --2. Month to Date Total loan applications
@@ -158,4 +158,5 @@ SUM(loan_amount) AS Total_Funded_Amount,
 SUM(total_payment) AS Total_Amount_Received
 FROM Bank_Loan_Data
 GROUP BY home_ownership
+
 ORDER BY count(id) DESC
